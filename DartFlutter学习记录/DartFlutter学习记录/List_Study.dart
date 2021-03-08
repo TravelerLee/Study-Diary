@@ -1,3 +1,0 @@
-List_Study
-
-
