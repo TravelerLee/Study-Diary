@@ -13,3 +13,10 @@ addAll 拼接数组
 indexOf 查找索引 传入具体值
 remove  删除  传入具体值
 removeAt 删除 传入索引值
+insert(index,value) 在指定位置插入值
+insertAll(index,list)  在指定位置插入List
+toList()  将其他类型转换为List
+join()  List类型转换为字符串
+split() 字符串转化成List
+forEach()  遍历列表
+map() 将数据转换为迭代器元组
